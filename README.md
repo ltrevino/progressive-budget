@@ -20,3 +20,4 @@ To install as app in your mobile:
 
 ## Screenshots
 
+![image](https://user-images.githubusercontent.com/12967754/145686532-6469ab21-361c-499f-a3bf-0bf844aabe35.png)
